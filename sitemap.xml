@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://maheshmakvana.github.io/</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/about.png</image:loc>
+      <image:title>Mahesh Makwana – Python Developer and Technical Lead</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/lin_django.jpg</image:loc>
+      <image:title>LinkedIn Learning Django Certificate – Mahesh Makwana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/lin_ess_python.jpg</image:loc>
+      <image:title>LinkedIn Learning Essential Python Certificate – Mahesh Makwana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/lin_powerbi.jpg</image:loc>
+      <image:title>LinkedIn Learning Power BI Certificate – Mahesh Makwana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/lin_secure_py.jpg</image:loc>
+      <image:title>LinkedIn Learning Secure Python Certificate – Mahesh Makwana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/python.jpeg</image:loc>
+      <image:title>Python Programming Certificate – Mahesh Makwana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://maheshmakvana.github.io/assets/img/django.jpg</image:loc>
+      <image:title>Django Web Framework Certificate – Mahesh Makwana</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://maheshmakvana.github.io/Resume/CV.pdf</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,54 @@
+# Mahesh Makwana
+
+> Python Developer & Technical Lead based in Surat, Gujarat, India. 8+ years of experience in full-stack and back-end development.
+
+## Summary
+Mahesh Makwana is a Python Developer specialising in front-end and back-end development. He is experienced with all stages of the development cycle for dynamic web projects. Well-versed in Python, Django, Django REST API, Odoo, Go Language, Fast API, Power BI, HTML5, JavaScript, CSS, MySQL and Azure. Strong background in project management and team leadership.
+
+## Current Role
+Senior Associate Technology at Publicis Sapient (Feb 2023 – Present)
+- Python, Fast API, Go Language, Snowflake
+
+## Previous Roles
+- Technical Lead at HCL Technologies (Dec 2022 – Jan 2023): Django, Django REST API, Python, Go Language
+- Python Developer at Mbit Computraining Pvt. Ltd., Client: TCS (Oct 2021 – Nov 2022): Predictive analytics, Django, REST APIs, Docker, CI/CD, Pandas
+- Python Odoo Developer at Key Concepts, Surat (Aug 2020 – Jun 2021): Odoo ERP customisation, Django, Power BI, Data Analysis, AWS
+- Python Odoo Developer at Comptech Infotech, Surat (Dec 2018 – Aug 2020): Odoo ERP, Django, Pandas, MySQL, Data Analysis, JIRA
+- Account and Sales Manager at Sagar Creation, Surat (Mar 2016 – Oct 2018): E-commerce on Flipkart and Amazon
+
+## Education
+- BCA – Sutex Bank College of Application and Science, Surat (Veer Narmad South Gujarat University, 2016)
+- 12th – GHSEB, Surat (2012)
+- 10th – GSEB, Surat (2010)
+
+## Core Skills
+- Python, Django, Django REST API, Fast API
+- Odoo ERP Customisation
+- Go Language
+- JavaScript, HTML5, CSS3
+- Power BI, Data Analysis
+- Azure Cloud, Docker, CI/CD
+- MySQL, Pandas, NumPy, Matplotlib
+- Git, Ubuntu Server Administration
+- Team Management, Project Management
+
+## Certifications
+- Django – LinkedIn Learning
+- Essential Python – LinkedIn Learning
+- Power BI – LinkedIn Learning
+- Secure Python – LinkedIn Learning
+- Python Programming Certificate
+- Django Web Framework Certificate
+
+## Languages
+- English
+- Hindi (Fluent)
+- Gujarati (Native)
+
+## Contact
+- Email: Maheshmakwana527@gmail.com
+- Phone: +91 97225 30513
+- Website: https://maheshmakvana.github.io
+- LinkedIn: https://www.linkedin.com/in/mahesh-makwana/
+- GitHub: https://github.com/maheshmakvana/
+- Resume: https://maheshmakvana.github.io/Resume/CV.pdf

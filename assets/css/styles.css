@@ -1,5 +1,5 @@
 /*===== GOOGLE FONTS =====*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+/* Moved to <link> in HTML <head> for better performance */
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
@@ -169,6 +169,10 @@ img {
   color: var(--second-color);
   font-size: 1.5rem;
   cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  line-height: 1;
 }
 
 /*Active menu*/
@@ -205,6 +209,13 @@ img {
 
 .home__title-color {
   color: var(--first-color);
+}
+
+.home__description {
+  font-size: var(--normal-font-size);
+  color: #666;
+  margin-bottom: var(--mb-4);
+  line-height: 1.6;
 }
 
 .home__social {
@@ -277,6 +288,10 @@ img {
 
 .about__subtitle {
   margin-bottom: var(--mb-2);
+}
+
+.about__text + .about__text {
+  margin-top: .75rem;
 }
 
 .about__img {
@@ -384,7 +399,7 @@ img {
 .container{
   padding-right: calc(10% - 30px);
 }
-main.row{
+.row{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 20px;
@@ -441,7 +456,7 @@ main.row{
   font-size: 17px;
 }
 @media(max-width: 768px){
-  main.row{
+  .row{
     grid-template-columns: 1fr;
   }
   .row .col:nth-child(2){
