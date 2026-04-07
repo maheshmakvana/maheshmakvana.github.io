@@ -9,18 +9,18 @@
         <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
         <meta name="geo.region" content="IN-GJ">
         <meta name="geo.placename" content="Surat, Gujarat, India">
-        <meta name="theme-color" content="#4f46e5">
+        <meta name="theme-color" content="#4361ee">
         <link rel="canonical" href="https://maheshmakvana.github.io/">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="profile">
         <meta property="og:url" content="https://maheshmakvana.github.io/">
-        <meta property="og:title" content="Mahesh Makwana | Python Developer, PyPI Author & AI Tools Creator – India">
+        <meta property="og:title" content="Mahesh Makwana | Python Developer, PyPI Author & Trading Bot Expert – India">
         <meta property="og:description" content="8+ years of Python, Django, Odoo, FastAPI & Azure experience. PyPI library author solving real AI problems. Algorithmic trading bot developer. Technical Lead at HCL, Senior Associate at Publicis Sapient. View portfolio, certifications & download resume.">
-        <meta property="og:image" content="https://maheshmakvana.github.io/assets/img/profile.png">
+        <meta property="og:image" content="https://maheshmakvana.github.io/assets/img/about1.png">
         <meta property="og:image:width" content="1080">
         <meta property="og:image:height" content="990">
-        <meta property="og:image:alt" content="Mahesh Makwana – Python Developer, PyPI Author and AI Tools Creator">
+        <meta property="og:image:alt" content="Mahesh Makwana – Python Developer, PyPI Author and Technical Lead">
         <meta property="og:locale" content="en_IN">
         <meta property="og:locale:alternate" content="en_US">
         <meta property="og:locale:alternate" content="en_GB">
@@ -33,21 +33,21 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@maheshmakwana527">
         <meta name="twitter:creator" content="@maheshmakwana527">
-        <meta name="twitter:title" content="Mahesh Makwana | Python Developer, PyPI Author & AI Tools Creator">
+        <meta name="twitter:title" content="Mahesh Makwana | Python Developer, PyPI Author & Trading Bot Expert">
         <meta name="twitter:description" content="8+ years Python, Django, Odoo, FastAPI & Azure. PyPI library author solving AI problems. Algorithmic trading bot developer. Surat, India.">
-        <meta name="twitter:image" content="https://maheshmakvana.github.io/assets/img/profile.png">
+        <meta name="twitter:image" content="https://maheshmakvana.github.io/assets/img/about1.png">
         <meta name="twitter:image:alt" content="Mahesh Makwana – Python Developer Portfolio">
 
         <!-- Additional SEO -->
-        <meta name="category" content="Technology, Software Development, Python, AI, Machine Learning">
-        <meta name="classification" content="Software Engineer, Python Developer, Open Source Author, AI Tools Creator">
+        <meta name="category" content="Technology, Software Development, Python, AI">
+        <meta name="classification" content="Software Engineer, Python Developer, Open Source Author">
         <meta name="coverage" content="Worldwide">
         <meta name="distribution" content="Global">
         <meta name="rating" content="General">
         <meta name="revisit-after" content="7 days">
         <meta name="language" content="English">
 
-        <title>Mahesh Makwana | Python Developer, PyPI Author & AI Tools Creator – Surat India</title>
+        <title>Mahesh Makwana | Python Developer, PyPI Author & Trading Bot Expert – Surat India</title>
 
         <!-- Resource Hints -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -56,7 +56,7 @@
         <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
 
         <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <link rel="stylesheet" href="assets/css/styles.css">
@@ -66,7 +66,7 @@
         <link rel="icon" type="image/png" href="/Favicon.png">
 
         <!-- Preload hero image for LCP performance -->
-        <link rel="preload" as="image" href="assets/img/profile.png" fetchpriority="high">
+        <link rel="preload" as="image" href="assets/img/about1.png" fetchpriority="high">
 
         <!-- Structured Data: Person + ProfilePage -->
         <script type="application/ld+json">
@@ -82,11 +82,11 @@
                 "familyName": "Makwana",
                 "birthDate": "1995-06-06",
                 "gender": "Male",
-                "jobTitle": "Senior Associate Technology | Python Developer & AI Tools Creator",
+                "jobTitle": "Senior Associate Technology | Python Developer & Technical Lead",
                 "description": "Python Developer & Technical Lead based in Surat, India with 8+ years of experience in Python, Django, Django REST API, Odoo, FastAPI, JavaScript, Power BI, Azure and MySQL. Author of open-source PyPI libraries solving real AI problems. Algorithmic trading bot developer with expertise in Angel Broking and Zerodha APIs.",
                 "email": "mailto:Maheshmakwana527@gmail.com",
                 "telephone": "+919722530513",
-                "image": "https://maheshmakvana.github.io/assets/img/profile.png",
+                "image": "https://maheshmakvana.github.io/assets/img/about1.png",
                 "worksFor": {
                     "@type": "Organization",
                     "name": "Publicis Sapient",
@@ -175,7 +175,7 @@
                             "name": "India"
                         },
                         "description": "Python, FastAPI, Snowflake development and data engineering at Publicis Sapient",
-                        "skills": "Python, FastAPI, Snowflake, Data Engineering, AI Tools Development"
+                        "skills": "Python, FastAPI, Snowflake, Data Engineering"
                     }
                 ],
                 "knowsAbout": [
@@ -184,11 +184,10 @@
                     "Power BI", "Azure", "MySQL", "Data Analysis",
                     "Python Scripting", "Git", "Docker", "CI/CD",
                     "REST API Development", "Full Stack Development",
+                    "Pandas", "NumPy", "Matplotlib",
                     "Ubuntu Server Administration", "Team Management",
                     "PyPI Package Development", "Open Source Python Libraries",
                     "AI Tools Development", "Machine Learning Integration",
-                    "LLM Integration", "Prompt Engineering", "Semantic Testing",
-                    "Generative AI", "AI Workflow Automation",
                     "Algorithmic Trading", "Trading Bot Development",
                     "Angel Broking API", "Zerodha Kite API",
                     "Snowflake Data Warehousing", "Python Automation"
@@ -207,10 +206,10 @@
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "name": "Mahesh Makwana – Python Developer, PyPI Author & AI Tools Creator",
+            "name": "Mahesh Makwana – Python Developer, PyPI Author & Trading Bot Expert",
             "alternateName": ["Mahesh Makwana Portfolio", "Mahesh Makwana Developer", "maheshmakvana"],
             "url": "https://maheshmakvana.github.io",
-            "description": "Personal portfolio of Mahesh Makwana – Python Developer, PyPI open-source library author, AI tools creator, and algorithmic trading bot developer based in Surat, India. 8+ years of experience in Python, Django, Odoo, FastAPI and Azure.",
+            "description": "Personal portfolio of Mahesh Makwana – Python Developer, PyPI open-source library author, and algorithmic trading bot developer based in Surat, India. 8+ years of experience in Python, Django, Odoo, FastAPI and Azure.",
             "inLanguage": "en",
             "copyrightHolder": {
                 "@type": "Person",
@@ -241,55 +240,15 @@
                     "position": 1,
                     "item": {
                         "@type": "SoftwareApplication",
-                        "name": "providercontract",
+                        "name": "Python AI Libraries by Mahesh Makwana",
                         "applicationCategory": "DeveloperApplication",
                         "operatingSystem": "Cross-platform",
-                        "description": "Cross-provider schema contract testing tool for Large Language Models. Define one validation schema, apply it across OpenAI, Anthropic, Mistral, LiteLLM and more.",
-                        "softwareVersion": "0.1.0",
-                        "author": { "@type": "Person", "name": "Mahesh Makwana" },
-                        "url": "https://pypi.org/project/providercontract/"
-                    }
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "item": {
-                        "@type": "SoftwareApplication",
-                        "name": "semanticheck",
-                        "applicationCategory": "DeveloperApplication",
-                        "operatingSystem": "Cross-platform",
-                        "description": "Pytest-native semantic assertions for LLM and generative AI applications. No servers, no SaaS required.",
-                        "softwareVersion": "0.1.0",
-                        "author": { "@type": "Person", "name": "Mahesh Makwana" },
-                        "url": "https://pypi.org/project/semanticheck/"
-                    }
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 3,
-                    "item": {
-                        "@type": "SoftwareApplication",
-                        "name": "promptfiles",
-                        "applicationCategory": "DeveloperApplication",
-                        "operatingSystem": "Cross-platform",
-                        "description": "Manage LLM prompts as versioned YAML files with git integration. No more hardcoded prompt strings.",
-                        "softwareVersion": "0.1.0",
-                        "author": { "@type": "Person", "name": "Mahesh Makwana" },
-                        "url": "https://pypi.org/project/promptfiles/"
-                    }
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 4,
-                    "item": {
-                        "@type": "SoftwareApplication",
-                        "name": "genassert",
-                        "applicationCategory": "DeveloperApplication",
-                        "operatingSystem": "Cross-platform",
-                        "description": "Pytest plugin for semantic testing of LLM applications. Checks meaning rather than exact string matches.",
-                        "softwareVersion": "0.2.2",
-                        "author": { "@type": "Person", "name": "Mahesh Makwana" },
-                        "url": "https://pypi.org/project/genassert/"
+                        "description": "Open-source Python packages published on PyPI addressing current AI integration and automation challenges",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Mahesh Makwana"
+                        },
+                        "url": "https://pypi.org/user/maheshmakvana/"
                     }
                 }
             ]
@@ -304,11 +263,9 @@
             "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://maheshmakvana.github.io/"},
                 {"@type": "ListItem", "position": 2, "name": "About Mahesh Makwana", "item": "https://maheshmakvana.github.io/#about"},
-                {"@type": "ListItem", "position": 3, "name": "AI & ML Expertise", "item": "https://maheshmakvana.github.io/#ai"},
-                {"@type": "ListItem", "position": 4, "name": "PyPI Libraries", "item": "https://maheshmakvana.github.io/#pypi"},
-                {"@type": "ListItem", "position": 5, "name": "Technical Skills", "item": "https://maheshmakvana.github.io/#skills"},
-                {"@type": "ListItem", "position": 6, "name": "Experience & Education", "item": "https://maheshmakvana.github.io/#education"},
-                {"@type": "ListItem", "position": 7, "name": "Professional Certifications", "item": "https://maheshmakvana.github.io/#certificates"}
+                {"@type": "ListItem", "position": 3, "name": "Technical Skills", "item": "https://maheshmakvana.github.io/#skills"},
+                {"@type": "ListItem", "position": 4, "name": "Education & Experience", "item": "https://maheshmakvana.github.io/#education"},
+                {"@type": "ListItem", "position": 5, "name": "Professional Certifications", "item": "https://maheshmakvana.github.io/#certificates"}
             ]
         }
         </script>
@@ -319,24 +276,23 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Mahesh Makwana Technical Skills",
-            "description": "Core technical skills of Python Developer, PyPI Author & AI Tools Creator Mahesh Makwana",
-            "numberOfItems": 16,
+            "description": "Core technical skills of Python Developer & PyPI Author Mahesh Makwana",
+            "numberOfItems": 14,
             "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "Python"},
                 {"@type": "ListItem", "position": 2, "name": "Django & Django REST API"},
                 {"@type": "ListItem", "position": 3, "name": "Odoo ERP"},
                 {"@type": "ListItem", "position": 4, "name": "FastAPI"},
                 {"@type": "ListItem", "position": 5, "name": "PyPI Open Source Libraries"},
-                {"@type": "ListItem", "position": 6, "name": "LLM Integration & AI Tools"},
-                {"@type": "ListItem", "position": 7, "name": "Semantic Testing for AI"},
-                {"@type": "ListItem", "position": 8, "name": "Prompt Engineering"},
-                {"@type": "ListItem", "position": 9, "name": "Algorithmic Trading Bot Development"},
-                {"@type": "ListItem", "position": 10, "name": "Azure Cloud"},
-                {"@type": "ListItem", "position": 11, "name": "Power BI"},
-                {"@type": "ListItem", "position": 12, "name": "Snowflake"},
-                {"@type": "ListItem", "position": 13, "name": "MySQL & SQL"},
-                {"@type": "ListItem", "position": 14, "name": "Docker & CI/CD"},
-                {"@type": "ListItem", "position": 16, "name": "Git & Ubuntu Server"}
+                {"@type": "ListItem", "position": 6, "name": "Algorithmic Trading Bot Development"},
+                {"@type": "ListItem", "position": 7, "name": "Azure Cloud"},
+                {"@type": "ListItem", "position": 8, "name": "Power BI"},
+                {"@type": "ListItem", "position": 9, "name": "Snowflake"},
+                {"@type": "ListItem", "position": 10, "name": "MySQL & SQL"},
+                {"@type": "ListItem", "position": 11, "name": "Docker & CI/CD"},
+                {"@type": "ListItem", "position": 12, "name": "Pandas, NumPy & Matplotlib"},
+                {"@type": "ListItem", "position": 13, "name": "JavaScript"},
+                {"@type": "ListItem", "position": 14, "name": "Git & Ubuntu Server"}
             ]
         }
         </script>
@@ -365,11 +321,9 @@
                 <ul class="nav__list">
                     <li><a href="#home"         class="nav__link active" data-section="home">Home</a></li>
                     <li><a href="#about"        class="nav__link" data-section="about">About</a></li>
-                    <li><a href="#ai"           class="nav__link" data-section="ai">AI & ML</a></li>
-                    <li><a href="#pypi"         class="nav__link" data-section="pypi">PyPI Libs</a></li>
                     <li><a href="#skills"       class="nav__link" data-section="skills">Skills</a></li>
                     <li><a href="#education"    class="nav__link" data-section="education">Experience</a></li>
-                    <li><a href="#certificates" class="nav__link" data-section="certificates">Certs</a></li>
+                    <li><a href="#certificates" class="nav__link" data-section="certificates">Certifications</a></li>
                 </ul>
 
                 <a href="Resume/CV.pdf" class="nav__cta" download aria-label="Download Resume">
@@ -391,8 +345,6 @@
                 <button class="nav__drawer-close" id="drawer-close" aria-label="Close navigation">&times;</button>
                 <a href="#home"         class="nav__drawer-link active" data-section="home">Home</a>
                 <a href="#about"        class="nav__drawer-link" data-section="about">About</a>
-                <a href="#ai"           class="nav__drawer-link" data-section="ai">AI & ML</a>
-                <a href="#pypi"         class="nav__drawer-link" data-section="pypi">PyPI Libraries</a>
                 <a href="#skills"       class="nav__drawer-link" data-section="skills">Skills</a>
                 <a href="#education"    class="nav__drawer-link" data-section="education">Experience</a>
                 <a href="#certificates" class="nav__drawer-link" data-section="certificates">Certifications</a>
@@ -426,18 +378,18 @@
 
                         <div class="reveal delay-2">
                             <h1 class="home__name">Mahesh<br>Makwana</h1>
-                            <span class="home__title-line">Python Developer &amp; AI Tools Creator</span>
+                            <span class="home__title-line">Python Developer &amp; PyPI Author</span>
                         </div>
 
                         <p class="home__desc reveal delay-3">
-                            Senior Associate Technology at <strong>Publicis Sapient</strong> &bull; 8+ years building scalable Python systems, open-source <strong>PyPI libraries for AI/LLM</strong>, and algorithmic trading bots. Based in <strong>Surat, India</strong>.
+                            Senior Associate Technology at <strong>Publicis Sapient</strong> &bull; 8+ years building scalable Python systems, open-source PyPI libraries, and algorithmic trading bots. Based in <strong>Surat, India</strong>.
                         </p>
 
                         <div class="hero-badges reveal delay-3">
                             <span class="badge badge--blue">Python Developer</span>
                             <span class="badge badge--purple">PyPI Author</span>
-                            <span class="badge badge--green">AI Tools Creator</span>
                             <span class="badge badge--teal">Trading Bot Dev</span>
+                            <span class="badge badge--green">AI Tools Creator</span>
                         </div>
 
                         <div class="home__ctas reveal delay-4">
@@ -455,9 +407,6 @@
                             </a>
                             <a href="https://github.com/maheshmakvana/" class="home__social-icon" rel="noopener noreferrer" target="_blank" aria-label="GitHub">
                                 <i class='bx bxl-github'></i>
-                            </a>
-                            <a href="https://pypi.org/user/maheshmakvana/" class="home__social-icon" rel="noopener noreferrer" target="_blank" aria-label="PyPI">
-                                <i class='bx bx-package'></i>
                             </a>
                             <a href="https://www.instagram.com/maheshmakwana_787/" class="home__social-icon" rel="noopener noreferrer" target="_blank" aria-label="Instagram">
                                 <i class='bx bxl-instagram-alt'></i>
@@ -481,7 +430,7 @@
                             <div class="stat-divider"></div>
                             <div class="stat">
                                 <div style="display:flex;align-items:baseline;gap:0.1rem;">
-                                    <span class="stat__num" data-target="4">0</span>
+                                    <span class="stat__num" data-target="5">0</span>
                                     <span class="stat__plus">+</span>
                                 </div>
                                 <span class="stat__label">PyPI Libs</span>
@@ -509,7 +458,7 @@
                     <div class="home__visual reveal-right delay-3" aria-hidden="true">
                         <div class="hero-image-wrap">
                             <div class="hero-image-glow"></div>
-                            <img src="assets/img/profile.png"
+                            <img src="assets/img/about1.png"
                                  alt="Mahesh Makwana – Python Developer based in Surat, India"
                                  width="360" height="360"
                                  loading="eager"
@@ -525,13 +474,13 @@
                 <svg viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
                     <defs>
                         <linearGradient id="wg1" x1="0%" y1="0%" x2="100%" y2="0%">
-                            <stop offset="0%"   stop-color="#6366f1" stop-opacity="0.08"/>
-                            <stop offset="50%"  stop-color="#14b8a6" stop-opacity="0.12"/>
-                            <stop offset="100%" stop-color="#6366f1" stop-opacity="0.08"/>
+                            <stop offset="0%"   stop-color="#4361ee" stop-opacity="0.12"/>
+                            <stop offset="50%"  stop-color="#7c3aed" stop-opacity="0.18"/>
+                            <stop offset="100%" stop-color="#4361ee" stop-opacity="0.12"/>
                         </linearGradient>
                     </defs>
                     <path d="M0,45 C360,90 720,0 1080,45 C1260,67 1380,30 1440,45 L1440,90 L0,90 Z" fill="url(#wg1)"/>
-                    <path d="M0,60 C240,20 480,80 720,55 C960,30 1200,75 1440,60 L1440,90 L0,90 Z" fill="rgba(99,102,241,0.04)"/>
+                    <path d="M0,60 C240,20 480,80 720,55 C960,30 1200,75 1440,60 L1440,90 L0,90 Z" fill="rgba(67,97,238,0.06)"/>
                 </svg>
             </div>
 
@@ -541,15 +490,15 @@
                     <div class="section-header">
                         <span class="section-eyebrow reveal">Who I Am</span>
                         <h2 class="section-title reveal delay-1">About <span>Me</span></h2>
-                        <p class="section-subtitle reveal delay-2">Python developer, AI tools creator, open-source author, and trading bot engineer from Surat, India.</p>
+                        <p class="section-subtitle reveal delay-2">Python developer, open-source author, and trading bot engineer from Surat, India.</p>
                     </div>
 
                     <div class="about__container">
                         <!-- Image -->
                         <div class="about__img-wrap reveal-left">
                             <div class="about__img-ring">
-                                <img src="assets/img/profile.png"
-                                     alt="Mahesh Makwana – Python Developer and AI Tools Creator, Surat India"
+                                <img src="assets/img/about1.png"
+                                     alt="Mahesh Makwana – Python Developer and Technical Lead, Surat India"
                                      width="300" height="300"
                                      loading="lazy"
                                      decoding="async">
@@ -563,7 +512,7 @@
 
                         <!-- Text card -->
                         <div class="about__card reveal-right">
-                            <h3 class="about__subtitle">Mahesh Makwana — Python Developer, AI Tools Creator &amp; PyPI Author</h3>
+                            <h3 class="about__subtitle">Mahesh Makwana — Python Developer, PyPI Author &amp; Trading Bot Expert</h3>
 
                             <p class="about__text">
                                 I'm a <strong>Python Developer</strong> specialising in <strong>back-end and full-stack development</strong>, currently serving as <strong>Senior Associate Technology at Publicis Sapient</strong>. With <strong>8+ years</strong> of hands-on experience, I have shipped production systems across ERP, data engineering, REST APIs, AI tooling, and financial trading.
@@ -572,13 +521,13 @@
                                 My core stack includes <strong>Python, Django, FastAPI, Odoo, Azure, Snowflake, Power BI</strong> and <strong>MySQL</strong>. I've led teams and delivered projects at <strong>HCL Technologies</strong>, <strong>TCS</strong>, <strong>Key Concepts</strong> and <strong>Comptech Infotech</strong>.
                             </p>
                             <p class="about__text">
-                                I am an active <strong>open-source contributor</strong> and <strong>PyPI library author</strong>, publishing Python packages that solve real <strong>LLM contract testing, semantic AI assertions, prompt management</strong> and <strong>generative AI testing</strong> problems in production environments.
-                            </p>
-                            <p class="about__text">
-                                My <strong>AI/ML expertise</strong> spans <strong>LLM integration across providers</strong> (OpenAI, Anthropic, Mistral, LiteLLM), <strong>semantic testing with embeddings</strong>, <strong>prompt engineering as code</strong>, and building <strong>developer tools</strong> that make AI applications reliable and testable.
+                                I am an active <strong>open-source contributor</strong> and <strong>PyPI library author</strong>, publishing Python packages that solve real <strong>LLM integration, AI workflow automation</strong> and <strong>prompt engineering</strong> problems in production environments.
                             </p>
                             <p class="about__text">
                                 I also build <strong>algorithmic trading bots</strong> integrating with <strong>Angel Broking SmartAPI</strong> and <strong>Zerodha Kite API</strong> — handling automated order execution, intraday/swing/options strategies, live market data streaming, backtesting and risk management.
+                            </p>
+                            <p class="about__text">
+                                I hold a <strong>BCA</strong> from <strong>Sutex Bank College / VNSGU</strong> (2016) and am skilled in data analysis with <strong>Pandas, NumPy &amp; Matplotlib</strong>, CI/CD pipelines with <strong>Docker</strong>, and server administration on <strong>Ubuntu and Azure</strong>.
                             </p>
 
                             <div class="about__actions">
@@ -597,7 +546,7 @@
                                     <div class="stat-card__label">Years Exp</div>
                                 </div>
                                 <div class="stat-card reveal delay-2">
-                                    <div class="stat-card__number">4+</div>
+                                    <div class="stat-card__number">5+</div>
                                     <div class="stat-card__label">PyPI Libs</div>
                                 </div>
                                 <div class="stat-card reveal delay-3">
@@ -620,216 +569,11 @@
                 <span></span><span></span><span></span><span></span><span></span>
             </div>
 
-            <!-- ===== AI & ML EXPERTISE ===== -->
-            <section id="ai" class="section section-ai" aria-label="AI and Machine Learning Expertise">
-                <div class="container">
-                    <div class="section-header">
-                        <span class="section-eyebrow reveal">AI Expertise</span>
-                        <h2 class="section-title reveal delay-1">AI &amp; <span>Machine Learning</span></h2>
-                        <p class="section-subtitle reveal delay-2">Building production-grade AI tools, LLM testing frameworks, and developer utilities that make generative AI reliable.</p>
-                    </div>
-
-                    <div class="ai__grid">
-
-                        <div class="ai-card reveal delay-1">
-                            <div class="ai-card__icon ai-card__icon--purple">
-                                <i class='bx bx-brain'></i>
-                            </div>
-                            <div class="ai-card__title">LLM Integration & Testing</div>
-                            <div class="ai-card__desc">
-                                Building cross-provider tools that work with <strong>OpenAI, Anthropic, Mistral, LiteLLM</strong> and more. Validating LLM JSON outputs against contracts with schema-level precision across multiple providers simultaneously.
-                            </div>
-                        </div>
-
-                        <div class="ai-card reveal delay-2">
-                            <div class="ai-card__icon ai-card__icon--teal">
-                                <i class='bx bx-check-shield'></i>
-                            </div>
-                            <div class="ai-card__title">Semantic AI Assertions</div>
-                            <div class="ai-card__desc">
-                                Created pytest-native semantic testing tools that verify <strong>intent, tone, hallucination detection, and PII leakage</strong> in LLM outputs. Using sentence-transformers and local models for zero-cost evaluation.
-                            </div>
-                        </div>
-
-                        <div class="ai-card reveal delay-3">
-                            <div class="ai-card__icon ai-card__icon--blue">
-                                <i class='bx bx-code-block'></i>
-                            </div>
-                            <div class="ai-card__title">Prompt Engineering as Code</div>
-                            <div class="ai-card__desc">
-                                Building tools to manage LLM prompts as <strong>versioned YAML files</strong> with git integration, template variables, and registry systems. Eliminating hardcoded prompts from production codebases.
-                            </div>
-                        </div>
-
-                        <div class="ai-card reveal delay-4">
-                            <div class="ai-card__icon ai-card__icon--green">
-                                <i class='bx bx-package'></i>
-                            </div>
-                            <div class="ai-card__title">Open Source AI Libraries</div>
-                            <div class="ai-card__desc">
-                                Publishing production-ready Python packages on <strong>PyPI</strong> that solve real AI problems — from contract testing to semantic assertions to prompt management. All MIT-licensed, zero-dependency core.
-                            </div>
-                        </div>
-
-                        <div class="ai-card reveal delay-5">
-                            <div class="ai-card__icon ai-card__icon--amber">
-                                <i class='bx bx-bot'></i>
-                            </div>
-                            <div class="ai-card__title">AI Workflow Automation</div>
-                            <div class="ai-card__desc">
-                                Automating AI development workflows with <strong>CI-ready testing</strong>, GitHub Actions integration, baseline regression detection, and local model judges that run evaluations at zero API cost.
-                            </div>
-                        </div>
-
-                        <div class="ai-card reveal delay-5">
-                            <div class="ai-card__icon ai-card__icon--rose">
-                                <i class='bx bx-scatter-chart'></i>
-                            </div>
-                            <div class="ai-card__title">ML & Data Analysis</div>
-                            <div class="ai-card__desc">
-                                Building data pipelines with <strong>Snowflake &amp; Azure</strong>. Data analysis and predictive analytics. Embedding-based similarity matching and model evaluation.
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </section>
-
-            <!-- Dot divider -->
-            <div class="divider-gradient" aria-hidden="true"></div>
-            <div class="divider-dots" aria-hidden="true">
-                <span></span><span></span><span></span><span></span><span></span>
-            </div>
-
-            <!-- ===== PyPI LIBRARIES ===== -->
-            <section id="pypi" class="section section-pypi" aria-label="PyPI Open Source Libraries">
-                <div class="container">
-                    <div class="section-header">
-                        <span class="section-eyebrow reveal">Open Source</span>
-                        <h2 class="section-title reveal delay-1">PyPI <span>Libraries</span></h2>
-                        <p class="section-subtitle reveal delay-2">Python packages I've published on PyPI to solve real AI, LLM testing, and developer workflow problems.</p>
-                    </div>
-
-                    <div class="pypi__grid">
-
-                        <!-- providercontract -->
-                        <div class="pypi-card reveal delay-1">
-                            <div class="pypi-card__header">
-                                <div class="pypi-card__icon ai-card__icon--blue">
-                                    <i class='bx bx-shield-quarter'></i>
-                                </div>
-                                <span class="pypi-card__version">v0.1.0</span>
-                            </div>
-                            <div class="pypi-card__name">providercontract</div>
-                            <div class="pypi-card__desc">
-                                Cross-provider schema contract testing for LLMs. Define one validation schema and apply it across <strong>OpenAI, Anthropic, Mistral, LiteLLM</strong> and more. Field validators, nested contracts, strict mode, and pytest integration.
-                            </div>
-                            <div class="pypi-card__tags">
-                                <span class="pypi-tag">LLM</span>
-                                <span class="pypi-tag">Contract Testing</span>
-                                <span class="pypi-tag">Multi-Provider</span>
-                                <span class="pypi-tag">pytest</span>
-                                <span class="pypi-tag">MIT</span>
-                            </div>
-                            <a href="https://pypi.org/project/providercontract/" class="pypi-card__link" target="_blank" rel="noopener noreferrer">
-                                View on PyPI <i class='bx bx-right-arrow-alt'></i>
-                            </a>
-                        </div>
-
-                        <!-- genassert -->
-                        <div class="pypi-card reveal delay-2">
-                            <div class="pypi-card__header">
-                                <div class="pypi-card__icon ai-card__icon--green">
-                                    <i class='bx bx-check-double'></i>
-                                </div>
-                                <span class="pypi-card__version">v0.2.2</span>
-                            </div>
-                            <div class="pypi-card__name">genassert</div>
-                            <div class="pypi-card__desc">
-                                Pytest plugin for semantic testing of LLM apps. Checks <strong>meaning over exact matches</strong> — intent verification, tone checking, hallucination detection, token budget validation, and baseline regression. CI-ready with GitHub Actions.
-                            </div>
-                            <div class="pypi-card__tags">
-                                <span class="pypi-tag">Semantic Testing</span>
-                                <span class="pypi-tag">pytest Plugin</span>
-                                <span class="pypi-tag">LLM</span>
-                                <span class="pypi-tag">CI/CD</span>
-                                <span class="pypi-tag">MIT</span>
-                            </div>
-                            <a href="https://pypi.org/project/genassert/" class="pypi-card__link" target="_blank" rel="noopener noreferrer">
-                                View on PyPI <i class='bx bx-right-arrow-alt'></i>
-                            </a>
-                        </div>
-
-                        <!-- semanticheck -->
-                        <div class="pypi-card reveal delay-3">
-                            <div class="pypi-card__header">
-                                <div class="pypi-card__icon ai-card__icon--teal">
-                                    <i class='bx bx-analyse'></i>
-                                </div>
-                                <span class="pypi-card__version">v0.1.0</span>
-                            </div>
-                            <div class="pypi-card__name">semanticheck</div>
-                            <div class="pypi-card__desc">
-                                Pytest-native semantic assertions for generative AI. <strong>No servers, no SaaS</strong> — assert intent, tone, hallucination, and PII locally. Uses sentence-transformers or OpenAI embeddings with LocalJudge for zero-cost evaluations.
-                            </div>
-                            <div class="pypi-card__tags">
-                                <span class="pypi-tag">Semantic Assertions</span>
-                                <span class="pypi-tag">Embeddings</span>
-                                <span class="pypi-tag">LocalJudge</span>
-                                <span class="pypi-tag">pytest</span>
-                                <span class="pypi-tag">MIT</span>
-                            </div>
-                            <a href="https://pypi.org/project/semanticheck/" class="pypi-card__link" target="_blank" rel="noopener noreferrer">
-                                View on PyPI <i class='bx bx-right-arrow-alt'></i>
-                            </a>
-                        </div>
-
-                        <!-- promptfiles -->
-                        <div class="pypi-card reveal delay-4">
-                            <div class="pypi-card__header">
-                                <div class="pypi-card__icon ai-card__icon--purple">
-                                    <i class='bx bx-file'></i>
-                                </div>
-                                <span class="pypi-card__version">v0.1.0</span>
-                            </div>
-                            <div class="pypi-card__name">promptfiles</div>
-                            <div class="pypi-card__desc">
-                                Manage LLM prompts as <strong>versioned YAML files</strong> with full git integration. Template variables, CLI tools for validation and diffing, registry system, and framework-agnostic output compatible with any LLM SDK. No hardcoded strings.
-                            </div>
-                            <div class="pypi-card__tags">
-                                <span class="pypi-tag">Prompt Management</span>
-                                <span class="pypi-tag">YAML</span>
-                                <span class="pypi-tag">Git-Native</span>
-                                <span class="pypi-tag">CLI</span>
-                                <span class="pypi-tag">MIT</span>
-                            </div>
-                            <a href="https://pypi.org/project/promptfiles/" class="pypi-card__link" target="_blank" rel="noopener noreferrer">
-                                View on PyPI <i class='bx bx-right-arrow-alt'></i>
-                            </a>
-                        </div>
-
-                    </div>
-                </div>
-            </section>
-
-            <!-- Wave divider 2 -->
-            <div class="divider-wave" aria-hidden="true">
-                <svg viewBox="0 0 1440 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-                    <defs>
-                        <linearGradient id="wg2" x1="0%" y1="0%" x2="100%" y2="0%">
-                            <stop offset="0%"   stop-color="#6366f1" stop-opacity="0.06"/>
-                            <stop offset="100%" stop-color="#14b8a6" stop-opacity="0.06"/>
-                        </linearGradient>
-                    </defs>
-                    <path d="M0,40 C480,80 960,0 1440,40 L1440,80 L0,80 Z" fill="url(#wg2)"/>
-                </svg>
-            </div>
-
             <!-- ===== SKILLS ===== -->
             <section id="skills" class="section section-skills" aria-label="Technical Skills">
                 <!-- code decorations -->
                 <div class="skills-code-deco skills-code-deco--1" aria-hidden="true">import python; from django.rest_framework import serializers</div>
-                <div class="skills-code-deco skills-code-deco--2" aria-hidden="true">pip install providercontract genassert semanticheck promptfiles</div>
+                <div class="skills-code-deco skills-code-deco--2" aria-hidden="true">pip install fastapi snowflake-connector-python pandas numpy</div>
                 <div class="skills-code-deco skills-code-deco--3" aria-hidden="true">def trade(symbol, qty): broker.place_order(symbol, qty)</div>
 
                 <div class="container">
@@ -876,11 +620,11 @@
 
                             <div class="skill-bar-item">
                                 <div class="skill-bar-header">
-                                    <span class="skill-bar-name"><i class='bx bx-brain'></i> AI / LLM Tools</span>
+                                    <span class="skill-bar-name">Odoo ERP</span>
                                     <span class="skill-bar-pct">70%</span>
                                 </div>
                                 <div class="skill-bar-track">
-                                    <div class="skill-bar-fill" data-width="70" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" aria-label="AI / LLM Tools 70%"></div>
+                                    <div class="skill-bar-fill" data-width="70" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" aria-label="Odoo 70%"></div>
                                 </div>
                             </div>
                         </div>
@@ -946,6 +690,9 @@
                             <span class="tag">Docker</span>
                             <span class="tag">CI/CD</span>
                             <span class="tag">MySQL</span>
+                            <span class="tag">Pandas</span>
+                            <span class="tag">NumPy</span>
+                            <span class="tag">Matplotlib</span>
                             <span class="tag">Jupyter</span>
                             <span class="tag">Git</span>
                             <span class="tag">Ubuntu</span>
@@ -953,10 +700,6 @@
                             <span class="tag">LLM Integration</span>
                             <span class="tag">AI Automation</span>
                             <span class="tag">Prompt Engineering</span>
-                            <span class="tag">Semantic Testing</span>
-                            <span class="tag">Sentence Transformers</span>
-                            <span class="tag">OpenAI API</span>
-                            <span class="tag">Anthropic API</span>
                             <span class="tag">Trading Bot</span>
                             <span class="tag">Angel Broking API</span>
                             <span class="tag">Zerodha Kite API</span>
@@ -967,10 +710,17 @@
                 </div>
             </section>
 
-            <!-- Wave divider 3 -->
+            <!-- Wave divider 2 -->
             <div class="divider-wave" aria-hidden="true">
                 <svg viewBox="0 0 1440 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0,40 C480,80 960,0 1440,40 L1440,80 L0,80 Z" fill="rgba(99,102,241,0.04)"/>
+                    <defs>
+                        <linearGradient id="wg2" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%"   stop-color="#1e293b" stop-opacity="1"/>
+                            <stop offset="100%" stop-color="#1e293b" stop-opacity="1"/>
+                        </linearGradient>
+                    </defs>
+                    <path d="M0,40 C480,80 960,0 1440,40 L1440,80 L0,80 Z" fill="#f8faff"/>
+                    <path d="M0,55 C360,10 720,70 1080,40 C1260,25 1380,60 1440,55 L1440,80 L0,80 Z" fill="rgba(67,97,238,0.05)"/>
                 </svg>
             </div>
 
@@ -1033,8 +783,8 @@
                                         <div class="timeline-desc">
                                             <ul>
                                                 <li>Publishing Python packages on <strong>PyPI</strong> solving AI problems</li>
-                                                <li>Created <strong>providercontract</strong>, <strong>genassert</strong>, <strong>semanticheck</strong>, <strong>promptfiles</strong></li>
-                                                <li>Libraries for <strong>LLM contract testing</strong>, semantic assertions, prompt management</li>
+                                                <li>Libraries for <strong>LLM integration</strong>, AI workflow automation, prompt utilities</li>
+                                                <li>5+ packages tackling real production AI challenges</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -1094,7 +844,7 @@
                                                 <li>Built <strong>predictive analytics</strong> pipelines with Python</li>
                                                 <li><strong>Django</strong> REST API development for data-driven products</li>
                                                 <li><strong>Docker</strong> containerisation and CI/CD pipeline automation</li>
-                                                <li>Data analysis and predictive analytics with Python</li>
+                                                <li>Data analysis with <strong>Pandas, NumPy &amp; Matplotlib</strong></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -1299,7 +1049,7 @@
                     <div>
                         <div class="footer__brand-name">Mahesh Makwana</div>
                         <p class="footer__brand-desc">
-                            Python Developer, PyPI Library Author, AI Tools Creator &amp; Algorithmic Trading Bot Developer based in Surat, India. Building scalable software and open-source tools since 2016.
+                            Python Developer, PyPI Library Author &amp; Algorithmic Trading Bot Developer based in Surat, India. Building scalable software and open-source tools since 2016.
                         </p>
                         <div class="footer__socials">
                             <a href="https://www.linkedin.com/in/mahesh-makwana/" class="footer__social" rel="noopener noreferrer" target="_blank" aria-label="LinkedIn">
@@ -1307,9 +1057,6 @@
                             </a>
                             <a href="https://github.com/maheshmakvana/" class="footer__social" rel="noopener noreferrer" target="_blank" aria-label="GitHub">
                                 <i class='bx bxl-github'></i>
-                            </a>
-                            <a href="https://pypi.org/user/maheshmakvana/" class="footer__social" rel="noopener noreferrer" target="_blank" aria-label="PyPI">
-                                <i class='bx bx-package'></i>
                             </a>
                             <a href="https://www.instagram.com/maheshmakwana_787/" class="footer__social" rel="noopener noreferrer" target="_blank" aria-label="Instagram">
                                 <i class='bx bxl-instagram-alt'></i>
@@ -1329,8 +1076,6 @@
                         <div class="footer__links">
                             <a href="#home" class="footer__link"><i class='bx bx-chevron-right'></i> Home</a>
                             <a href="#about" class="footer__link"><i class='bx bx-chevron-right'></i> About</a>
-                            <a href="#ai" class="footer__link"><i class='bx bx-chevron-right'></i> AI & ML</a>
-                            <a href="#pypi" class="footer__link"><i class='bx bx-chevron-right'></i> PyPI Libraries</a>
                             <a href="#skills" class="footer__link"><i class='bx bx-chevron-right'></i> Skills</a>
                             <a href="#education" class="footer__link"><i class='bx bx-chevron-right'></i> Experience</a>
                             <a href="#certificates" class="footer__link"><i class='bx bx-chevron-right'></i> Certifications</a>
@@ -1420,7 +1165,7 @@
 
                     ctx.beginPath();
                     ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-                    ctx.fillStyle = 'rgba(79,70,229,0.3)';
+                    ctx.fillStyle = 'rgba(67,97,238,0.5)';
                     ctx.fill();
 
                     for (let j = i + 1; j < particles.length; j++) {
@@ -1431,7 +1176,7 @@
                             ctx.beginPath();
                             ctx.moveTo(p.x, p.y);
                             ctx.lineTo(q.x, q.y);
-                            ctx.strokeStyle = `rgba(79,70,229,${alpha})`;
+                            ctx.strokeStyle = `rgba(67,97,238,${alpha})`;
                             ctx.lineWidth   = 0.8;
                             ctx.stroke();
                         }
@@ -1472,7 +1217,7 @@
                 requestAnimationFrame(loop);
             })();
 
-            document.querySelectorAll('a, button, .cert-card, .tag, .badge, .pypi-card, .ai-card').forEach(el => {
+            document.querySelectorAll('a, button, .cert-card, .tag, .badge').forEach(el => {
                 el.addEventListener('mouseenter', () => ring.classList.add('hovered'));
                 el.addEventListener('mouseleave', () => ring.classList.remove('hovered'));
             });
@@ -1558,16 +1303,16 @@
         // ── 10. 3D card tilt for cert cards ──────────────────────────
         (function () {
             if (window.innerWidth < 768) return;
-            document.querySelectorAll('.cert-card, .pypi-card, .ai-card').forEach(card => {
+            document.querySelectorAll('.cert-card').forEach(card => {
                 card.addEventListener('mousemove', e => {
                     const rect  = card.getBoundingClientRect();
                     const x     = e.clientX - rect.left;
                     const y     = e.clientY - rect.top;
                     const cx    = rect.width  / 2;
                     const cy    = rect.height / 2;
-                    const rotX  = ((y - cy) / cy) * -5;
-                    const rotY  = ((x - cx) / cx) *  5;
-                    card.style.transform   = `perspective(800px) rotateX(${rotX}deg) rotateY(${rotY}deg) scale3d(1.02,1.02,1.02)`;
+                    const rotX  = ((y - cy) / cy) * -7;
+                    const rotY  = ((x - cx) / cx) *  7;
+                    card.style.transform   = `perspective(800px) rotateX(${rotX}deg) rotateY(${rotY}deg) scale3d(1.03,1.03,1.03)`;
                     card.style.transition  = 'transform 0.1s ease';
                 });
                 card.addEventListener('mouseleave', () => {
