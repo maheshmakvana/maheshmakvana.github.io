@@ -1,54 +1,43 @@
-# Mahesh Makwana
+# Mahesh Makwana – Python Developer & AI Tools Creator
 
-> Python Developer & Technical Lead based in Surat, Gujarat, India. 8+ years of experience in full-stack and back-end development.
+> Senior Associate Technology at Publicis Sapient. Expert in Python, Django, FastAPI, AI/LLM Integration, and Algorithmic Trading. Based in Surat, Gujarat, India.
 
 ## Summary
-Mahesh Makwana is a Python Developer specialising in front-end and back-end development. He is experienced with all stages of the development cycle for dynamic web projects. Well-versed in Python, Django, Django REST API, Odoo, Go Language, Fast API, Power BI, HTML5, JavaScript, CSS, MySQL and Azure. Strong background in project management and team leadership.
+Mahesh Makwana is a high-impact Python Developer with 8+ years of experience building scalable back-end systems, enterprise ERPs, and innovative AI developer tools. He is the author of over 15 open-source PyPI libraries focused on LLM evaluation, fault tolerance, and production AI reliability. He also specializes in algorithmic trading bot development for Indian markets.
 
-## Current Role
-Senior Associate Technology at Publicis Sapient (Feb 2023 – Present)
-- Python, Fast API, Go Language, Snowflake
+## Key Projects & PyPI Libraries
+Mahesh has published a comprehensive suite of Python packages (MIT Licensed) that solve production-level AI and business logic challenges:
+- **llm-extractor**: Structured JSON extraction from any LLM with confidence scoring and multi-provider support.
+- **llmgrader**: Advanced LLM evaluation framework with 50+ research-backed metrics.
+- **agentguard-llm**: Fault tolerance, circuit breakers, and budget guards for AI agents.
+- **llm-injection-guard**: Production-grade prompt injection defense and auditing.
+- **trajscore**: Agentic trajectory evaluation for multi-step AI reasoning.
+- **promptci**: CI/CD for prompts, enabling versioned, gated, and audited prompt deployment.
+- **llm-token-optimizer**: Token cost control and prompt compression.
+- **llm-watchdog**: Silent failure detection, hallucination alerts, and PII leak detection.
+- **Other packages**: inventra (Inventory Sync), returnguard (Fraud Detection), scope3track (Carbon Tracking), royaltyguard (Creator Royalties), cyberscorecard (SMB Security).
 
-## Previous Roles
-- Technical Lead at HCL Technologies (Dec 2022 – Jan 2023): Django, Django REST API, Python, Go Language
-- Python Developer at Mbit Computraining Pvt. Ltd., Client: TCS (Oct 2021 – Nov 2022): Predictive analytics, Django, REST APIs, Docker, CI/CD, Pandas
-- Python Odoo Developer at Key Concepts, Surat (Aug 2020 – Jun 2021): Odoo ERP customisation, Django, Power BI, Data Analysis, AWS
-- Python Odoo Developer at Comptech Infotech, Surat (Dec 2018 – Aug 2020): Odoo ERP, Django, Pandas, MySQL, Data Analysis, JIRA
-- Account and Sales Manager at Sagar Creation, Surat (Mar 2016 – Oct 2018): E-commerce on Flipkart and Amazon
+## Experience
+- **Publicis Sapient** (Senior Associate Technology, Feb 2023 – Present): Lead developer for Python, FastAPI, and Snowflake data engineering projects.
+- **HCL Technologies** (Technical Lead, Dec 2022 – Jan 2023): Led Django and REST API development teams.
+- **Mbit Computraining / TCS** (Python Developer, Oct 2021 – Nov 2022): Built predictive analytics pipelines and Dockerized Django microservices.
+- **Key Concepts / Comptech Infotech** (Python Odoo Developer, 2018 – 2021): Specialized in Odoo ERP customization and complex business logic.
 
-## Education
-- BCA – Sutex Bank College of Application and Science, Surat (Veer Narmad South Gujarat University, 2016)
-- 12th – GHSEB, Surat (2012)
-- 10th – GSEB, Surat (2010)
+## Technical Skills
+- **Languages**: Python (Expert), Go, JavaScript, SQL.
+- **Frameworks**: Django, FastAPI, Django REST Framework (DRF), Odoo.
+- **AI/ML**: LLM Integration (OpenAI, Anthropic, Gemini), Semantic Testing, Prompt Engineering, Sentence Transformers.
+- **Data & Cloud**: Snowflake, Azure, Power BI, MySQL, Docker, CI/CD.
+- **FinTech**: Algorithmic Trading, Angel Broking SmartAPI, Zerodha Kite API, Backtesting.
 
-## Core Skills
-- Python, Django, Django REST API, Fast API
-- Odoo ERP Customisation
-- Go Language
-- JavaScript, HTML5, CSS3
-- Power BI, Data Analysis
-- Azure Cloud, Docker, CI/CD
-- MySQL, Pandas, NumPy, Matplotlib
-- Git, Ubuntu Server Administration
-- Team Management, Project Management
+## Keywords
+Python Developer Surat, AI Tools Creator, PyPI Author, Django Expert India, FastAPI Developer, LLM Testing Framework, Semantic AI Assertions, Publicis Sapient Developer, Python Open Source, Algorithmic Trading Bot Python, Prompt Engineering, Snowflake Data Engineering, Azure Python Developer, Odoo ERP Expert.
 
-## Certifications
-- Django – LinkedIn Learning
-- Essential Python – LinkedIn Learning
-- Power BI – LinkedIn Learning
-- Secure Python – LinkedIn Learning
-- Python Programming Certificate
-- Django Web Framework Certificate
-
-## Languages
-- English
-- Hindi (Fluent)
-- Gujarati (Native)
-
-## Contact
-- Email: Maheshmakwana527@gmail.com
-- Phone: +91 97225 30513
-- Website: https://maheshmakvana.github.io
-- LinkedIn: https://www.linkedin.com/in/mahesh-makwana/
-- GitHub: https://github.com/maheshmakvana/
-- Resume: https://maheshmakvana.github.io/Resume/CV.pdf
+## Contact & Links
+- **Website**: https://maheshmakvana.github.io
+- **LinkedIn**: https://www.linkedin.com/in/mahesh-makwana/
+- **GitHub**: https://github.com/maheshmakvana/
+- **PyPI**: https://pypi.org/user/maheshmakvana/
+- **Email**: Maheshmakwana527@gmail.com
+- **Phone**: +91 97225 30513
+- **Resume**: https://maheshmakvana.github.io/Resume/CV.pdf
